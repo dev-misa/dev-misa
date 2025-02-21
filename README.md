@@ -1,14 +1,6 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi,+i'm+Misa!+:D;Hola,+soy+Misa!+:D;Ciao,+sono+Misa!+:D;안녕,+미사엘입니다!+:D">
-</h1>
 <div align="center">
-  <img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/61da7da1-3ac0-448d-b5d2-db885e716052/df6owdz-c7b1f397-0911-4642-b23e-85ce2bcd4311.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxZGE3ZGExLTNhYzAtNDQ4ZC1iNWQyLWRiODg1ZTcxNjA1MlwvZGY2b3dkei1jN2IxZjM5Ny0wOTExLTQ2NDItYjIzZS04NWNlMmJjZDQzMTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4LiGuFcT_j6HYt3AzHhqBeRv3qye9ZHljJd8oPAK-RY" />
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FelixMisael&label=Profile%20views&color=0e75b6&style=flat" alt="FelixMisael" /> </p>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=FelixMisael&theme=nord&column=8&no-frame=true&margin-w=5" />
-  </a>
+  <img align="center" src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif"/>
+</div><br>
+<div align="center" style="line-height: 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi,+i'm+Misa!+:D;Hola,+soy+Misa!+:D;Ciao,+sono+Misa!+:D;안녕,+미사엘입니다!+:D">
 </div>
