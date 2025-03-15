@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://i.redd.it/gpir30a1cqud1.gif" height="500px" width="850px"/>
+  <img align="center" src="https://i.redd.it/gpir30a1cqud1.gif"/>
 </div><br>
 
 <div align="center" style="line-height: 0;">
