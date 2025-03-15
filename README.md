@@ -18,6 +18,6 @@
 <br>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&title=-Issues,-PullRequest" />
   </a>
 </div>
