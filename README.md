@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-misa&layout=pie&hide=dockerfile,shell,vba,php,vim%20script,blade,ruby,VCL,Lua,c&langs_count=6&hide_border=true&theme=buefy" width="338px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-misa&layout=pie&hide=dockerfile,shell,vba,php,vim%20script,blade,ruby,VCL,Lua&langs_count=6&hide_border=true&theme=buefy" width="338px" />
   </a>
 </div>
 <div align="center">
